@@ -61,7 +61,7 @@ namespace MultilingualApp {
         }
         
         /// <summary>
-        ///   こんにちは世界!! に類似しているローカライズされた文字列を検索します。
+        ///   こんちは世界 に類似しているローカライズされた文字列を検索します。
         /// </summary>
         internal static string HelloWorld {
             get {

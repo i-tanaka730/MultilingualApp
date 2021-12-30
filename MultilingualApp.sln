@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultilingualApp", "MultilingualApp\MultilingualApp.csproj", "{A7C55E3E-B3BD-48D5-80D4-38025A605326}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultilingualApp", "MultilingualApp\MultilingualApp.csproj", "{A7C55E3E-B3BD-48D5-80D4-38025A605326}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,7 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
+		RESX_NeutralResourcesLanguage = ja-JP
 		SolutionGuid = {56F471AC-B101-4580-A7D3-BDD57DDA8E9B}
 	EndGlobalSection
 EndGlobal
